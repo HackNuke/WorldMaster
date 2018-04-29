@@ -1,0 +1,9 @@
+{"source": "forgottenRealmsWiki", "tableName": "Settlements by Population", "size": 8, "entries":
+[{"entry": "Thorp", "probability": "1", "description": "20-80"},
+{"entry": "Hamlet", "probability": "0.5", "description": "81-400"},
+{"entry": "Village", "probability": "0.25", "description": "401-900"},
+{"entry": "Small town", "probability": "0.125", "description": "901-2000"},
+{"entry": "Large town", "probability": "0.0625", "description": "2001-5000"},
+{"entry": "Small city", "probability": "0.05", "description": "5001-12000"},
+{"entry": "Large city", "probability": "0.025", "description": "12001-25000"},
+{"entry": "Metropolis", "probability": "0.01", "description": "25000-100000"}]}

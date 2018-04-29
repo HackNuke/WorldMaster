@@ -1,0 +1,18 @@
+{
+    "source": "/r/BehindTheTables", "tableName": "Professions", "size": 13, "entries":
+    [
+        {"entry": "farmer", "probability": 1.0, "description": ""},
+        {"entry": "artist", "probability": 1.0, "description": ""},
+        {"entry": "clergy", "probability": 1.0, "description": ""},
+        {"entry": "soldier", "probability": 1.0, "description": ""},
+        {"entry": "fisher", "probability": 1.0, "description": ""},
+        {"entry": "harlot", "probability": 1.0, "description": ""},
+        {"entry": "miner", "probability": 1.0, "description": ""},
+        {"entry": "merchant", "probability": 1.0, "description": ""},
+        {"entry": "scholar", "probability": 1.0, "description": ""},
+        {"entry": "herder", "probability": 1.0, "description": ""},
+        {"entry": "sailor", "probability": 1.0, "description": ""},
+        {"entry": "mage", "probability": 1.0, "description": ""},
+        {"entry": "beggar", "probability": 1.0, "description": ""}
+    ]
+}

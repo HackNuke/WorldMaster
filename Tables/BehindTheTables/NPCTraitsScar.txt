@@ -1,0 +1,1 @@
+{"source": "/r/BehindTheTables", "tableName": "NPC Traits - Scar", "size": 4, "entries": [{"entry": "A jagged scar", "probability": 1.0, "description": ""}, {"entry": "A dark purple scar", "probability": 1.0, "description": ""}, {"entry": "An angry red scar", "probability": 1.0, "description": ""}, {"entry": "A long, thin scar", "probability": 1.0, "description": ""}]}

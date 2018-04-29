@@ -1,0 +1,9 @@
+{"source": "Misc", "tableName": "Social Class", "size": 5, "entries":
+[
+    {"entry": "Underclass", "probability": 1.0, "description": ""},
+    {"entry": "Lower Class", "probability": 1.0, "description": ""},
+    {"entry": "Middle Class", "probability": 1.0, "description": ""},
+    {"entry": "Upper Class", "probability": 1.0, "description": ""},
+    {"entry": "Ruling Class", "probability": 1.0, "description": ""}
+]
+}

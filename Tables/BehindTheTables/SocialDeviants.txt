@@ -1,0 +1,1 @@
+{"source": "/r/BehindTheTables", "tableName": "Social Deviants", "size": 3, "entries": [{"entry": "beggar", "probability": 1.0, "description": ""}, {"entry": "drunk", "probability": 1.0, "description": ""}, {"entry": "drug addict", "probability": 1.0, "description": ""}]}

@@ -1,0 +1,11 @@
+{"source": "Misc", "tableName": "Basic Races", "size": 9,
+"entries":
+[{"entry": "Dwarf", "probability": 0.12, "description": ""},
+{"entry": "Elf", "probability": 0.08, "description": ""},
+{"entry": "Dragonborn", "probability": 0.01, "description": ""},
+{"entry": "Gnome", "probability": 0.03, "description": ""},
+{"entry": "Half-Elf", "probability": 0.05, "description": ""},
+{"entry": "Half-Orc", "probability": 0.01, "description": ""},
+{"entry": "Halfling", "probability": 0.05, "description": ""},
+{"entry": "Human", "probability": 0.64, "description": ""},
+{"entry": "Tiefling", "probability": 0.01, "description": ""}]}

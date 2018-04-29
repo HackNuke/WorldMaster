@@ -1,0 +1,5 @@
+{"source": "Custom", "tableName": "Simple Settlements", "size": 4, "entries":
+[{"entry": "Village", "probability": "0.6", "description": "100-1000"},
+{"entry": "Town", "probability": "0.3", "description": "1001-8000"},
+{"entry": "City", "probability": "0.09", "description": "8001-15000"},
+{"entry": "Metropolis", "probability": "0.01", "description": "15001-50000"}]}
